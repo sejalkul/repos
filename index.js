@@ -12,6 +12,7 @@ function handleClick(){
         buttonAnimation(buttonInnerHTML);
     
 }
+//     ------nbjb------------
 
 }
 //Detecting keyboard press
